@@ -531,6 +531,7 @@ body {
     font-weight: 600;
     color: rgb(86, 86, 86);
     margin-top: 7px;
+    margin-bottom: 10px;
 }
 
 .news_list_left_text:hover {
